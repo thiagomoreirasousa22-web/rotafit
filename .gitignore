@@ -1,0 +1,19 @@
+# Segredos locais
+.env
+.env.*
+!.env.example
+
+node_modules/
+.expo/
+dist/
+coverage/
+expo-env.d.ts
+*.jks
+*.p12
+*.mobileprovision
+.supabase/
+supabase/.temp/
+supabase/.env.local
+
+android/
+ios/
